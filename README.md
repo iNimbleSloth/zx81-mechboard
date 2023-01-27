@@ -5,7 +5,7 @@ This keyboard is designed to use Cherry MX or Gateron switches. <br>
 The keyboard is open source, please feel free to modiy it but always link back to this repository.<br>
 
 Watch my video series that features this keyboard on [YouTube](https://www.youtube.com/watch?v=6a8wxj9vJjU&list=PLx7VS_ZJdQyVQSyDkv-Idc9wqWm_9QVhM)<br><br>
-KiCAD files_v1.1 - Schematic and PCB layout files for KiCAD
+KiCAD files_v1.1 - Schematic and PCB layout files for KiCAD<br>
 keycaps layout - Keycaps design layout for Adobe Illustrator. Note that if useing wasdkeyboards, then you nned to use the expanded file.<br>
 <img src="https://user-images.githubusercontent.com/43861976/214363150-18426ead-ca96-4252-867b-39ef87760eb3.jpg" width=60% />
 <br><br>
